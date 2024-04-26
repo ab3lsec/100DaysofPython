@@ -20,3 +20,16 @@ print(name[0:-5])
 
 print(name[-5:-1])
 # Logic: print(name[len(name)-4:len(name)-3])
+
+
+# Finding a Pattern in a String:
+# We can check whether a pattern is present in the string or not by using "in" Keyword in a Conditional Statement
+# Syntax: if "pattern" in "String"
+
+str = "Michael Jackson"
+
+if "son" in str:
+    print("Pattern Found!!")
+
+else:
+    print("No Matches!!")
