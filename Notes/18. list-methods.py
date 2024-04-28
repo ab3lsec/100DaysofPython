@@ -43,8 +43,11 @@ print(superheroes)
 superheroes.insert(5, "cyborg")
 print(superheroes)
 
+# 8. remove() : removes the first occurence of a specified value
 
-# 8. extend() : adds the items of one list to a second list.
+superheroes.remove("flash")
+
+# 9. extend() : adds the items of one list to a second list.
 # i.e the second list will have all the items of first list,but the first list remain unchanged.
 
 marvel = ["ironman", "vision", "hawkeye"]
