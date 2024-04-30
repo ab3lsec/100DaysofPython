@@ -27,18 +27,7 @@ options = (
     ["A. Nucleus", "B. Ribosome", "C. Mitochondria", "D. Chloroplast"]
 )
 
-answers = (
-    "a. paris",
-    "a. mars",
-    "b. william shakespeare",
-    "d. h2o",
-    "a. leonardo da vinci",
-    "c. blue whale",
-    "c. 1912",
-    "a. mount everest",
-    "a. neil armstrong",
-    "c. mitochondria"
-)
+answers = ('A', 'A', 'B', 'D', 'A', 'C', 'C', 'A', 'A', 'C')
 
 
 currPrize = 0
@@ -60,14 +49,14 @@ for i in range(1, 11):
 
     n = random.randint(0, 9)
     while n in usedNums:
-        n = random.randint(0, 9)
+        n = random.randint(0, 9) 
     usedNums.append(n)
 
     question = selectQn(n)
     option = selectOptions(n)
     answer = findAnswer(n)
 
-    print(i, ". ", question)
+    print("Question", i, ": ", question)
     for opt in option:
         print(opt)
     print("\n")
