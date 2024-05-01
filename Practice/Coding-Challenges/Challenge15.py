@@ -1,4 +1,4 @@
-# Challenge 15 : Analyzing Hostnames for Subdomain Takeovers
+# Challenge 15 : Analyzing Hostnames for Subdomain Takeovers using Sets
 
 # Subdomain takeover is a common security vulnerability 
 # where an attacker can register a subdomain of a vulnerable domain that is not actively being used, and then gain control over it.

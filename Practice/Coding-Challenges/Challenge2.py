@@ -1,4 +1,4 @@
-# Challenge 2:
+# Challenge 2: String Operations
 # Write a Python script that takes a user input string and performs the following operations:
 
 # 1. Convert the string to uppercase.

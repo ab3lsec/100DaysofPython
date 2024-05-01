@@ -1,4 +1,4 @@
-# Challenge 6:
+# Challenge 6: URL Path Vulnerability Analysis
 # Imagine you're analyzing a web application as part of a bug bounty program. 
 # Write a Python script that simulates scanning a list of URLs for potential vulnerabilities.
 

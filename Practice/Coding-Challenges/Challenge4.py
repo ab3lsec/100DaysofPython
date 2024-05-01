@@ -1,4 +1,4 @@
-# Challenge 7:
+# Challenge 7: Switch Statement
 # Write a Python script that prompts the user to enter a day of the week (e.g., "Monday", "Tuesday", etc.). 
 # Use the `match` statement to check the input and print out a message based on the day entered:
 

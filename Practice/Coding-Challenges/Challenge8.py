@@ -1,4 +1,4 @@
-# Challenge 8:
+# Challenge 8: Checking Password Strength
 # Imagine you're analyzing the security of a web application as part of a bug bounty program. 
 # Write a function called `checkPasswStrength()` that takes a password as input and returns a message indicating its strength:
 

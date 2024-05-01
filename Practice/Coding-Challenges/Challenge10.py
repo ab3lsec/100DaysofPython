@@ -1,4 +1,4 @@
-# Challenge 10:
+# Challenge 10: URL Path Analysis using Lists
 # Imagine you're analyzing the security of a web application as part of a bug bounty program. 
 # Write a Python function called check_vulnerable_endpoints that takes a list of URLs as input 
 # and checks each URL for potential vulnerabilities in the endpoint paths.

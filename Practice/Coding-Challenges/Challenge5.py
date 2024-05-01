@@ -1,4 +1,4 @@
-# Challenge 8: 
+# Challenge 8: Web Login Password Bruteforce
 # Imagine you're conducting a security audit on a website's login system as part of a bug bounty program. 
 # Write a Python script that simulates multiple login attempts. 
 # Use a `for` loop to iterate through a list of usernames and passwords, and check if each combination is valid.

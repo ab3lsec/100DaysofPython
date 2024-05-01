@@ -1,4 +1,4 @@
-# Challenge 9:
+# Challenge 9: Remove Duplicate Numbers
 # Write a Python function called removeDupes() that takes a list of numbers as input 
 # and removes any duplicate numbers from the list, keeping only the first occurrence of each number. 
 # The function should return the modified list without duplicates.

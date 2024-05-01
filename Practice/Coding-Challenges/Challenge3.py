@@ -1,4 +1,4 @@
-# Challenge 3:
+# Challenge 3: Checking Age of a Person
 # Write a Python script that prompts the user to enter their age. 
 # Based on their age, print out the appropriate message:
 

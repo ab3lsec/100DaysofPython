@@ -1,4 +1,4 @@
-# Challenge 14 : Common Letters in Strings
+# Challenge 14 : Common Letters in two Strings
 
 # Write a Python function called common_letters that takes two strings as input 
 # and returns a set containing the common letters (characters) between the two strings.

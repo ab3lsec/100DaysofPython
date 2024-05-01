@@ -1,4 +1,4 @@
-# Challenge 12: URL Path Analysis
+# Challenge 12: URL Path Analysis 
 
 # In bug bounty hunting, understanding the structure and potential vulnerabilities of URL paths is crucial. 
 # Write a Python function called analyzeURL() that takes a list of URLs as input and analyzes the paths of those URLs for common security vulnerabilities.

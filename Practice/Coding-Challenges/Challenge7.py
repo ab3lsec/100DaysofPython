@@ -1,4 +1,4 @@
-# Challenge 7: 
+# Challenge 7: Calculating Area using Functions
 # Write a Python function called `calcRectArea` that takes two arguments: `length` and `width`.
 # The function should calculate and return the area of the rectangle.
 
