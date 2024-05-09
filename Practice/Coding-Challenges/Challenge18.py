@@ -1,4 +1,4 @@
-# Challenge 18.1 : Even or Odd (Shorthand If-else Statements)
+# Challenge 18.1 : Even or Odd (Shorthand If-else notation)
 # Write a Python script that takes an integer input from the user and
 # - prints "Even" if the number is even 
 # - prints "Odd" if the number is odd, using shorthand if-else notation.
