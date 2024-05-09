@@ -10,31 +10,31 @@
 # "except" block is executred when an error occur in "try" block and program fails to complete.
 
 
-# # Sample Scenario:
+# Sample Scenario:
 
-# a = int(input("Enter first number: "))
-# b = int(input("Enter second number: "))
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
 
-# print(f"{a} + {b} = {a+b}")
+print(f"{a} + {b} = {a+b}")
 
-# print("Important Code!!")
+print("Important Code!!")
 
-# # This program expects the user to input two values to perform the operation and sucessfully execute the program
-# # When the user fails to input any of those or input invalid datatypes like strings, then the program crashes and throws a system error.
-# # this fails to execute the important lines of code below
+# This program expects the user to input two values to perform the operation and sucessfully execute the program
+# When the user fails to input any of those or input invalid datatypes like strings, then the program crashes and throws a system error.
+# this fails to execute the important lines of code below
 
             
-# # Using Exception Handling technique:
+# Using Exception Handling technique:
 
-# try: 
-#     a = int(input("Enter first number: "))
-#     b = int(input("Enter second number: "))
-#     print(f"{a} / {b} = {a / b}")
+try: 
+    a = int(input("Enter first number: "))
+    b = int(input("Enter second number: "))
+    print(f"{a} / {b} = {a / b}")
     
-# except Exception as e:
-#     print("Invalid Input!!", e)
+except Exception as e:
+    print("Invalid Input!!", e)
 
-# print("Important Code!!")
+print("Important Code!!")
 
 
 # In this code, if any error occur in Try block, the mnessage in except block prints
